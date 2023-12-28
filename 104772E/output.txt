@@ -1,0 +1,11 @@
+Queen1: 2 2
+Queen2: 0 0
+YES
+2 0
+Queen1: 0 1
+Queen2: 4 0
+NO
+Queen1: 0 1
+Queen2: 2 2
+YES
+1 2
